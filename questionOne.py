@@ -14,5 +14,5 @@ def main():
     #print final result
     print("The sum is", mySum)
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
