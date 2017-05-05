@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#! usr/bin/env python
 _author_ = "Matthew Zheng"
 _purpose_ = "Solution to Project Euler Q3: Largest Prime Factor"
 
